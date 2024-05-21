@@ -5,7 +5,7 @@ function Projects() {
     <div>
       <div className="flex justify-between p-5 bg-gray-700 text-white">
         <div>
-          <h1 className="font-semibold"> Vats</h1>
+          <Link href ="/"><h1 className="font-semibold">Vats</h1></Link>
         </div>
 
         <div className="flex gap-5">
